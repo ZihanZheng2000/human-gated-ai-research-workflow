@@ -22,6 +22,9 @@ Thumbs.db
 .vscode/
 .idea/
 
+# Paper draft — not public yet
+docs/paper.md
+
 # Generated archives
 *.zip
 *.tar.gz

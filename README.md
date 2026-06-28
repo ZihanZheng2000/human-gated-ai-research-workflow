@@ -126,11 +126,9 @@ Example folders should follow [docs/example-organization.md](docs/example-organi
 
 ## Paper
 
-The current paper draft is in [docs/paper.md](docs/paper.md):
-
 > **A Human-Gated AI Research Workflow for Domain Researchers**
 
-The paper positions the repository as a practical, inspectable framework rather than a claim of full scientific automation.
+A companion paper is in preparation. It positions the repository as a practical, inspectable framework rather than a claim of full scientific automation. The draft is not yet public.
 
 ## Current Status
 

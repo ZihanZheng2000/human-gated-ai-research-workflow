@@ -10,7 +10,7 @@ The workflow has four stages:
 
 1. **Planning**: clarify the research purpose, run Domain Onboarding on user-supplied materials, scan prior work, check feasibility, calibrate venue/output, and produce one Approved Planning Package.
 2. **Modeling**: acquire real usable data, run exploratory demos or full execution, validate outputs, produce figures/tables, and write one Modeling Package.
-3. **Reporting / Output Packaging**: package evidence, provenance, findings, uncertainties, and final deliverables such as reports, papers, slides, dashboards, web pages, software packages, or review packets.
+3. **Reporting**: package evidence, provenance, findings, uncertainties, and final deliverables such as reports, papers, slides, dashboards, web pages, software packages, or review packets.
 4. **Reviewing**: run reviewer-agent critique, consolidate findings, and route issues back to the correct stage or to finalization.
 
 Each stage ends with a gate. A real research project uses real user gates. A framework test can use synthetic gates, but they must be labeled as synthetic.
@@ -36,7 +36,7 @@ This repository supports two role configurations, switchable via [WORKFLOW-CONFI
 
 | Config | Researcher agent | Reviewer agent |
 |---|---|---|
-| **A** (default) | Codex | Claude Code |
+| **A** | Codex | Claude Code |
 | **B** | Claude Code | Codex |
 
 - **Codex** reads [AGENTS.md](AGENTS.md) for its role instructions.

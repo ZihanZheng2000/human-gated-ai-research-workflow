@@ -1,0 +1,35 @@
+{
+  "file_count": 33,
+  "totals": {
+    "four_stage_terms": 742,
+    "reviewer_agent": 82,
+    "researcher_agent": 55,
+    "stage_gate": 57,
+    "demo_gate": 0,
+    "writing_stage": 1
+  },
+  "files_with_demo_gate": [],
+  "files_with_writing_stage": [
+    "docs/example-organization.md"
+  ],
+  "files_with_reviewer_agent": [
+    "AGENTS.md",
+    "docs/model-stage.md",
+    "docs/plan-stage.md",
+    "docs/quickstart.md",
+    "docs/reporting-stage.md",
+    "docs/review-stage.md",
+    "docs/reviewer-agents/modeling-reviewer-agent.md",
+    "docs/reviewer-agents/planning-reviewer-agent.md",
+    "docs/reviewer-agents/README.md",
+    "docs/reviewer-agents/reporting-reviewer-agent.md",
+    "docs/reviewer-agents/reviewing-reviewer-agent.md",
+    "docs/stage-handoffs.md",
+    "README.md",
+    "skills/route-aware-reviewer/SKILL.md",
+    "templates/model-package.md",
+    "templates/plan-package.md",
+    "templates/reporting-package.md",
+    "templates/review-package.md"
+  ]
+}

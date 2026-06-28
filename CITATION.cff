@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "A Human-Gated, Skill-Guided AI-Native Academic Research Workflow for Non-CS Researchers"
+message: "If you use this workflow, please cite the repository and accompanying paper draft."
+type: software
+authors:
+  - name: "AI-Native Academic Research Workflow contributors"
+abstract: "A human-gated, skill-guided workflow for evidence-grounded academic research reporting by non-CS researchers."
+version: "0.1.0-dev"
+date-released: "2026-06-05"
+license: "MIT"
+preferred-citation:
+  type: article
+  title: "A Human-Gated, Skill-Guided AI-Native Academic Research Workflow for Non-CS Researchers"
+  authors:
+    - name: "AI-Native Academic Research Workflow contributors"
+  year: 2026

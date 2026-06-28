@@ -1,0 +1,20 @@
+{
+  "run_id": "20260627_four_stage_flow",
+  "mode": "framework_smoke_test",
+  "gate_mode": "synthetic_auto_approved",
+  "workflow": [
+    "Planning",
+    "Modeling",
+    "Reporting",
+    "Reviewing"
+  ],
+  "data_source": "local repository Markdown files",
+  "script": "artifacts/20260627_four_stage_flow/code/analyze_workflow_docs.py",
+  "outputs": {
+    "summary_json": "artifacts/20260627_four_stage_flow/data/workflow_term_scan_summary.json",
+    "table_csv": "artifacts/20260627_four_stage_flow/tables/workflow_term_scan.csv",
+    "figure_svg": "artifacts/20260627_four_stage_flow/figures/workflow_term_scan.svg"
+  },
+  "status": "completed"
+}
+

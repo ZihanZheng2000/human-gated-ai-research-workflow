@@ -128,7 +128,7 @@ Example folders should follow [docs/example-organization.md](docs/example-organi
 
 The current paper draft is in [docs/paper.md](docs/paper.md):
 
-> **A Human-Gated, Skill-Guided AI-Native Academic Research Workflow for Non-CS Researchers**
+> **A Human-Gated AI Research Workflow for Domain Researchers**
 
 The paper positions the repository as a practical, inspectable framework rather than a claim of full scientific automation.
 

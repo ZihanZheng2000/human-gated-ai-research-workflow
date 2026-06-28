@@ -6,7 +6,7 @@ Recommended repository name:
 
 Recommended display title:
 
-`A Human-Gated, Skill-Guided AI-Native Academic Research Workflow for Non-CS Researchers`
+`A Human-Gated AI Research Workflow for Domain Researchers`
 
 ## Before Creating the Repository
 
@@ -18,7 +18,7 @@ Recommended display title:
 
 ## Suggested Repository Description
 
-Human-gated, skill-guided workflow for evidence-grounded academic research reporting by non-CS researchers.
+Human-gated, skill-guided workflow for evidence-grounded academic research by domain researchers.
 
 ## Suggested Topics
 

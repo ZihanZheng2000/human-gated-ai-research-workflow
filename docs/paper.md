@@ -1,4 +1,4 @@
-# A Human-Gated, Skill-Guided AI-Native Academic Research Workflow for Non-CS Researchers
+# A Human-Gated AI Research Workflow for Domain Researchers
 
 ## Abstract
 
